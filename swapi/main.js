@@ -21,7 +21,7 @@ btn.addEventListener('click', () => {
                         console.log(profile.name)
                         let name = document.createElement("h2")
                         name.textContent = profile.name
-                        body.appendChild(name)
+                        document.body.appendChild(name)
                     })
             }
           
