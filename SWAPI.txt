@@ -1,0 +1,14 @@
+StarWars API 
+----------------
+1.)	https://swapi.dev/api/people/4
+2.)https://swapi.dev/api/planets/2
+3.)https://swapi.dev/api/starships/10
+4.)https://swapi.dev/api/people/2 AND http://swapi.dev/api/species/2/
+5.)http://swapi.dev/api/people/10/ AND  http://swapi.dev/api/films/1/,
+                                        http://swapi.dev/api/films/2/,
+                                        http://swapi.dev/api/films/3/,
+                                        http://swapi.dev/api/films/4/,
+                                        http://swapi.dev/api/films/5/,
+                                        http://swapi.dev/api/films/6/
+
+6.) https://swapi.dev/api/starships/?search=millennium
